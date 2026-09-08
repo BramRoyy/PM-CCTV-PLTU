@@ -2,10 +2,10 @@
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![PLN Nusantara Power](https://img.shields.io/badge/PT_PLN_Nusantara_Power-0080FF?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PLN Nusantara Power UP Paiton](https://img.shields.io/badge/PT_PLN_Nusantara_Power-0080FF?style=for-the-badge)
 
 **PM-CCTV** (`pm_cctv`) adalah aplikasi berbasis Flutter yang dikembangkan untuk mendukung kegiatan pemantauan (*monitoring*), pelaporan gangguan, dan pemeliharaan preventif (*preventive maintenance*) perangkat CCTV di lingkungan **PT PLN Nusantara Power**.
 
@@ -101,4 +101,4 @@ flutter run
 
 ## 👤 Pengembang
 
-Dikembangkan oleh **Abraham Roy Rudianto** sebagai bagian dari program magang di **PT PLN Nusantara Power**.
+Dikembangkan oleh **Abraham Roy Rudianto** sebagai bagian dari program magang di **PT PLN Nusantara Power UP Paiton**.
